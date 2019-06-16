@@ -1,0 +1,7 @@
+data
+sox
+
+*.DS_Store
+*.wav
+*.pyc
+*.pkl
